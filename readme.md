@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e17831e-4e42-4b1f-b56c-f8cc6d1dffbf/deploy-status)](https://app.netlify.com/sites/vtcodecamp2016/deploys)
 
-# VT Code Camp 2016 Website
+# VT Code Camp 2015 Website
 
 Built with the [11ty/Eleventy](https://www.11ty.io) & [netlify](https://app.netlify.com/)
 

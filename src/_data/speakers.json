@@ -1,447 +1,392 @@
 {
-    "john-baluka": {
-        "slug": "john-baluka",
+    "justin-basinger": {
+        "slug": "justin-basinger",
+        "firstName": "Justin",
+        "lastName": "Basinger",
+        "bio": "9 years web development, 1 year mobile hybrid development - Delivered a hybrid application to 18 different countries in 5 different languages.",
+        "sessions": [
+            "ionic-framework"
+        ]
+    },
+    "john-bennett": {
+        "slug": "john-bennett",
         "firstName": "John",
-        "lastName": "Baluka",
-        "bio": "John has been developing software with the Microsoft stack for 20+ years. For most of the last 10 years, John has been a sub-contractor, business owner, and a Dad. John enjoys researching and applying new technologies to real world examples.",
+        "lastName": "Bennett",
+        "bio": "John has been building software and leading teams for over 20 years. He is currently Managing Partner at Thoughtcap, a software product development consultancy based in Providence, RI. His areas of expertise include distributed software architectures, lean product development, DevOps and continuous delivery, and data-center-to-cloud migrations.\n\nJohn previously led the engineering team at Huge, where he oversaw delivery of software, content- and ecommerce-based websites, and mobile apps for clients such as AARP, Comcast, Mass Mutual, and NYU Langone Medical Center.\n\nAs Principal Software Engineer at NBC News Digital, John designed and built the software systems that enable nbcnews.com and today.com to support hundreds of millions of users each month, with hourly code deployments and near-zero downtime.\n\nJohn donates his time and expertise to non-profits including iMentor, Malaika, Blue Ridge Labs @ Robin Hood, and the Social Enterprise Greenhouse.",
         "twitter": {
-            "href": "https://twitter.com/JohnBaluka",
-            "title": "JohnBaluka"
+            "href": "https://twitter.com/jtbennett",
+            "title": "jtbennett"
         },
         "sessions": [
-            "hacking-powerpoint-for-developers"
+            "the-new-new-microsoft"
         ]
     },
     "paul-blasucci": {
         "slug": "paul-blasucci",
         "firstName": "Paul",
         "lastName": "Blasucci",
-        "bio": "",
+        "bio": "As a passionate – yet pragmatic – enthusiast of multi-paradigm and polyglot engineering, Paulmichael has spent the past 16 years blending a disparate array of languages, technologies, and methodologies to develop compelling solutions to a wide range of business problems. He especially enjoys solving challenges in distributed computing, visual communications, and heterogeneous enterprise systems. Paulmichael works as a senior software engineer for Quicken Loans. He is also a co-founder of the NashF#: the Nashville F# Meetup and a co-organizer of the New York City F# Users Group. In 2014, he received a Microsoft MVP Award for his work in the .NET community. When not at the keyboard, Paulmichael may be found exploring the metro NYC area with his wife (though his soul is still honky-tonkin' in Nashville, TN).",
         "twitter": {
             "href": "https://twitter.com/pblasucci",
             "title": "pblasucci"
         },
         "sessions": [
-            "embracing-the-common-in-common-language-runtime"
+            "properties-to-be-checked"
         ]
     },
-    "kevin-braun": {
-        "slug": "kevin-braun",
-        "firstName": "Kevin",
-        "lastName": "Braun",
-        "bio": "I have 20 years of experience designing and developing user experiences. My clients include leaders in the mobile device, automotive, satellite radio, health care, education, and luxury apparel industries along with many smaller companies and startups. I’m currently a User Experience design consultant at Braun Interactive LLC. and teach UX design and front-end development at Champlain College.",
+    "john-cicilio": {
+        "slug": "john-cicilio",
+        "firstName": "John",
+        "lastName": "Cicilio",
+        "bio": "John Cicilio works as a Software Architect at MyWebGrocer. John has a passion for the intersection of science, mathematics and technology.",
+        "sessions": [
+            "restful-api-golang"
+        ]
+    },
+    "michael-commo": {
+        "slug": "michael-commo",
+        "firstName": "Michael",
+        "lastName": "Commo",
+        "bio": "Michael Commo is a Senior Software Engineer at Galen Healthcare Solutions, and currently develops enterprise software pertaining to care management and data archival. Prior, Commo wrote data warehousing software for IBM. A VT native, he attended Saint Michaels College and lives in Colchester with his wife.\n\nNot too long ago, Mike Commo and [Mike Tamlyn](/2015/speakers#michael-tamlyn) were part of a team that took first place in HackVT 2013.",
+        "sessions": [
+            "entity-framework-code-first-migrations"
+        ]
+    },
+    "christian-cote": {
+        "slug": "christian-cote",
+        "firstName": "Christian",
+        "lastName": "Coté",
+        "bio": "Christian Coté is a SQL Server MVP specializing in data warehouse and BI.",
         "twitter": {
-            "href": "https://twitter.com/humanforum",
-            "title": "humanforum"
+            "href": "https://twitter.com/Christian_SQL",
+            "title": "Christian_SQL"
         },
         "sessions": [
-            "squeezing-the-snake-oil-out-of-ux"
+            "self-service-bi-integration-in-corporate-bi"
         ]
     },
-    "cesar-carrasco": {
-        "slug": "cesar-carrasco",
-        "firstName": "Cesar",
-        "lastName": "Carrasco",
-        "bio": "",
-        "sessions": [
-            "complexities-of-web-development"
-        ]
-    },
-    "amy-chess": {
-        "slug": "amy-chess",
-        "firstName": "Amy",
-        "lastName": "Chess",
-        "bio": "Amy Chess is a User Experience Researcher at Dealer.com. Her research relies on qualitative data collection techniques to understand how car dealers interact with their Digital Marketing and Finance & Insurance software products. Amy holds a Ph.D. in Behavioral Neuroscience, and has studied the mechanisms of learning, memory, and attention in a variety of experimental preparations. Immersion in data is a favorite pastime, but increasingly, Amy enjoys empowering teams to ask their own questions and explore their own curiosities about their users.",
+    "aaron-cummings": {
+        "slug": "aaron-cummings",
+        "firstName": "Aaron",
+        "lastName": "Cummings",
+        "bio": "Aaron Cummings leads a software team within a microelectronics hardware design group, and focuses on systems for design automation. He has worked with imperative and object-oriented languages for the past two decades, but has recently taken an interest in functional programming. Aaron earned a BSCS from UVM, and still resides in the Burlington area. He spends his spare time fixing the things his kids break.",
         "twitter": {
-            "href": "https://twitter.com/AmyChess",
-            "title": "AmyChess"
+            "href": "https://twitter.com/btvaaron",
+            "title": "btvaaron"
         },
         "sessions": [
-            "socratic-ux"
+            "clojure"
         ]
     },
-    "bob-crowley": {
-        "slug": "bob-crowley",
-        "firstName": "Bob",
-        "lastName": "Crowley",
-        "bio": "",
+    "jeremy-danyow": {
+        "slug": "jeremy-danyow",
+        "firstName": "Jeremy",
+        "lastName": "Danyow",
+        "bio": "Aurelia Core Team member – More at [danyow.net](http://danyow.net)",
         "twitter": {
-            "href": "https://twitter.com/crowcoder",
-            "title": "crowcoder"
+            "href": "https://twitter.com/dany0w",
+            "title": "dany0w"
         },
         "sessions": [
-            "managing-databases-in-visual-studio-with-sql-server-data-tools"
+            "aurelia"
         ]
     },
     "hetal-dave": {
         "slug": "hetal-dave",
         "firstName": "Hetal",
         "lastName": "Dave",
-        "bio": "Hetal Dave is a Sr. Software Engineer and Technical Lead for C2, an IT consulting company based in Colchester, VT. She has been working in Software Development for over 15+ years, helping clients such as Keurig, NRG Systems, Crane & Co., Hershey and Vermont Teddy Bear. Hetal develops eCommerce, CMS and custom applications using .NET, C#, jQuery, AngularJS and other technologies. She is a Microsoft Certified Professional (MCP) and a Sitecore Certified Developer. Hetal holds a Master’s Degree in Computer Science from RIMS in London, UK.",
+        "bio": "Hetal Dave is a Sr. Software Engineer and Technical Lead for C2, an IT consulting company based in Colchester, VT. She has been working in Software Development for over 10 years, helping clients such as Keurig, NRG Systems, Crane & Co., Hershey and Vermont Teddy Bear. Hetal develops eCommerce, CMS and custom applications using .NET, C#, jQuery, AngularJS and other technologies. She is a Microsoft Certified Professional (MCP) and a Sitecore Certified Developer. Hetal holds a Master’s Degree in Computer Science from RIMS in London, UK.",
         "twitter": {
             "href": "https://twitter.com/hetaljdave",
             "title": "hetaljdave"
         },
         "sessions": [
-            "clean-code-and-clean-processes"
+            "clean-code"
         ]
     },
-    "joshua-dickerson": {
-        "slug": "joshua-dickerson",
-        "firstName": "Joshua",
-        "lastName": "Dickerson",
-        "bio": "Joshua Dickerson is a graduate of UVM currently working as a senior developer at Dealer.com, primarily focused on the display advertising / programmatic buying platform (RTB).",
+    "scott-douglas": {
+        "slug": "scott-douglas",
+        "firstName": "Scott",
+        "lastName": "Douglas",
+        "bio": "Scott Douglas is a Scrum Tech Lead and Senior UI Developer working on the Dealer.com web platform focusing on architecture and developer efficiency. He’s worked as a game programmer on Ultimate Spiderman for the Gameboy Advance, a software engineer working on SmartArt Graphics and Photos for Microsoft Office, and as an Animation Technical Director at DreamWorks Animation on films like How to Train Your Dragon and Megamind.",
         "twitter": {
-            "href": "https://twitter.com/JoshuaDickerson",
-            "title": "JoshuaDickerson"
+            "href": "https://twitter.com/uberska",
+            "title": "uberska"
         },
         "sessions": [
-            "persistent-distributed-messaging-with-apache-kafka"
+            "turning-points"
         ]
     },
-    "terrence-dorsey": {
-        "slug": "terrence-dorsey",
-        "firstName": "Terrence",
-        "lastName": "Dorsey",
-        "bio": "Terrence Dorsey is a writer, editor and content strategist specializing in technology and software development. He is currently a Senior Technical Writer at ESPN.",
+    "cori-drew": {
+        "slug": "cori-drew",
+        "firstName": "Cori",
+        "lastName": "Drew",
+        "bio": "Cori Drew is a senior consultant with Improving Enterprises in Addison, TX. She started her programming career as a web developer before cutting her OOP teeth (& falling in love with C#) in 2003 in .NET Framework 1.1. Cori was a programmer for 8.5 years before discovering there was a developer community in 2009. Appreciation for growth & learning, enabled by our tech community, has inspired her to try to pay it forward.",
         "twitter": {
-            "href": "https://twitter.com/tpdorsey",
-            "title": "tpdorsey"
+            "href": "https://twitter.com/coridrew",
+            "title": "coridrew"
         },
         "sessions": [
-            "simple-documentation-publishing-with-jekyll-and-github"
+            "git-parable"
         ]
     },
-    "rob-friesel": {
-        "slug": "rob-friesel",
-        "firstName": "Rob",
-        "lastName": "Friesel",
-        "bio": "Dealer.com veteran since 2003, and Platform Technical Lead. Author of the PhantomJS Cookbook.",
-        "twitter": {
-            "href": "https://twitter.com/founddrama",
-            "title": "founddrama"
-        },
+    "ben-glassman": {
+        "slug": "ben-glassman",
+        "firstName": "Ben",
+        "lastName": "Glassman",
+        "bio": "Ben is a Full Stack developer and Technical Lead for Vermont Design Works' team of front-end and backend developers working on custom websites and applications. He enjoys talking to people to gain an understanding of their problem and working with a team to come up with recommendations of technical solutions. He also is an experienced and enthusiastic technology educator, whether teaching web development courses at Champlain College or Vermont Works for Women's Step Up to IT program. When not basking in the glow of a computer screen, he can be found riding his bike with his dog Trevor in tow or practicing zymurgy in his basement.",
         "sessions": [
-            "how-hystrix-circuit-breakers-stopped-platform-outages"
+            "es6-today"
+        ]
+    },
+    "michael-hellein": {
+        "slug": "michael-hellein",
+        "firstName": "Michael",
+        "lastName": "Hellein",
+        "bio": "Michael Hellein is a web application developer. In 2008, he co-founded the web consultancy Bearded. He currently works at Dealer.com, creating tools and workflows for the developers working with their Website Platform.",
+        "sessions": [
+            "mithril-and-webpack"
         ]
     },
     "floyd-hilton": {
         "slug": "floyd-hilton",
         "firstName": "Floyd",
         "lastName": "Hilton",
-        "bio": "Floyd Hilton has 17 years of software development experience in many domains including semiconductor manufacturing, financial aid delivery, energy conservation and healthcare. Floyd is the Master of Chaos, and has been described as being the \"voice of reason\" and having a \"calming effect\" on the hectic world of software. He has enjoyed wearing many hats such as full stack web developer, project manager, application architect and director of development. His current interests include cross platform .NET, IoT, helping software teams move toward continuous delivery and improving architecture using domain driven design. Floyd also enjoys helping others discover the awesome career of being a software developer. He co-founded the Augusta Polyglot Group which meets once a month to teach and learn new languages. He has been teaching kids to program using a mixture of Linux, Scratch and Python and has given conference talks on getting SQL into Version Control.\n\nIf he's not writing code, Floyd can be found mountain biking in the Maine woods with his family.\n\nFloyd's current tools of choice are VS Code, C#, ASP.NET MVC, AngularJS, Python, Git, SQL Server and Microsoft Azure.",
+        "bio": "Floyd has 15 years of software development experience in businesses ranging from large scale semiconductor manufacturing to small scale consulting. Floyd's primary interests include improving the quality of software by leveraging version control and repeatable processes. Floyd also enjoy's helping others discover the awesome career of being a software developer.",
         "twitter": {
             "href": "https://twitter.com/fhilton",
             "title": "fhilton"
         },
         "sessions": [
-            "deploying-dot-net-applications-with-octopus-deploy"
+            "sql-schema-and-code-version-control"
         ]
     },
-    "brie-hoblin": {
-        "slug": "brie-hoblin",
-        "firstName": "Brie",
-        "lastName": "Hoblin",
-        "bio": "Brie Hoblin is a QA consultant in the Burlington area. Follow her on Twitter @[bhoblin](https://twitter.com/bhoblin).",
-        "twitter": {
-            "href": "https://twitter.com/bhoblin",
-            "title": "bhoblin"
-        },
+    "jon-hoguet": {
+        "slug": "jon-hoguet",
+        "firstName": "Jon",
+        "lastName": "Hoguet",
+        "bio": "Tech Lead, Dealer.com",
         "sessions": [
-            "flight-checks"
+            "static-web-apps"
         ]
     },
-    "bradley-holt": {
-        "slug": "bradley-holt",
-        "firstName": "Bradley",
-        "lastName": "Holt",
-        "bio": "Bradley Holt is a Developer Advocate with IBM Cloud Data Services. He is the author of several publications and has spoken at numerous conferences including ApacheCon, the O'Reilly Software Architecture Conference, Fluent, ConFoo, CodeMash, Node.js Interactive, NoSQL Now!, That Conference, php[tek], ZendCon, OSCON, the jQuery Conference, and SXSW Interactive. Bradley writes and speaks about topics such as CouchDB, PouchDB, offline-first applications, PHP, Node.js, and Domain-Driven Design.",
-        "twitter": {
-            "href": "https://twitter.com/BradleyHolt",
-            "title": "BradleyHolt"
-        },
+    "nick-husher": {
+        "slug": "nick-husher",
+        "firstName": "Nick",
+        "lastName": "Husher",
+        "bio": "Nick Husher is a UI developer for Faraday. He is an advocate for using functional programming concepts in UI development and making the process of building software easier and more humane.",
         "sessions": [
-            "from-mobile-first-to-offline-first"
-        ]
-    },
-    "david-howell": {
-        "slug": "david-howell",
-        "firstName": "David",
-        "lastName": "Howell",
-        "bio": "David Howell is a Technical Lead at Dealer.com. He loves making graphs, functional programming, and digging into abstractions.",
-        "twitter": {
-            "href": "https://twitter.com/dehowell",
-            "title": "dehowell"
-        },
-        "sessions": [
-            "seeing-the-matrix-with-tcpdump"
+            "clojurescript-and-figwheel"
         ]
     },
     "jeremy-hutchinson": {
         "slug": "jeremy-hutchinson",
         "firstName": "Jeremy",
         "lastName": "Hutchinson",
-        "bio": "Jeremy, a Senior Developer at Ontuitive, has been developing line of business applications for 15 years, primarily in the Microsoft Stack. He has a passion for writing clean, scalable code and sharing what he has learned with others.",
+        "bio": "Jeremy, is a Senior Developer at Ontuitive, has been developing line of business applications for 15 years primarily in the Microsoft Stack. He has a passion for writing clean, scalable code and sharing what he has learned with others.",
         "twitter": {
             "href": "https://twitter.com/hutchcodes",
             "title": "hutchcodes"
         },
         "sessions": [
-            "web-application-security-basics"
+            "t4-and-visual-studio"
         ]
     },
-    "julie-lerman": {
-        "slug": "julie-lerman",
-        "firstName": "Julie",
-        "lastName": "Lerman",
-        "bio": "With nearly 30 years of mostly windows development experience, Julie Lerman is a happy camper being able to have an excuse to use a Mac!",
+    "jessica-ingrassellino": {
+        "slug": "jessica-ingrassellino",
+        "firstName": "Jessica",
+        "lastName": "Ingrassellino",
+        "bio": "Jess Ingrasselino is a Software Engineer in Test at Bitly. She has worked at several startups in lead positions performing exploratory manual testing as well as creating automated frameworks to aid her testing process. She delivers tech talks in NYC about her testing experiences. Prior to her career in testing, Jessica was a music teacher for ten years, and served as an educational consultant and curriculum writer.\n\nJessica is active in the Python Education community, having co-chaired the Pycon Education Summit for the past two years. She is also working on Teach Code, a non-profit devoted to helping underserved communities get the resources they need to implement code classes as a part of the regular school day. When not working, Jessica enjoys playing violin and viola, as well as designing clothes and reading philosophy. She lives in NYC.",
         "twitter": {
-            "href": "https://twitter.com/julielerman",
-            "title": "julielerman"
+            "href": "https://twitter.com/jess_ingrass",
+            "title": "jess_ingrass"
         },
         "sessions": [
-            "ef-core-in-an-asp-dot-net-core-api"
+            "writing-automated-tests"
         ]
     },
-    "maureen-mcelaney": {
-        "slug": "maureen-mcelaney",
-        "firstName": "Maureen",
-        "lastName": "McElaney",
-        "bio": "Maureen is a Developer Advocate at IBM Cloud Data Services. She is the founder of Girl Develop It Burlington. She loves kitties, snow, and beer.",
+    "josh-lee": {
+        "slug": "josh-lee",
+        "firstName": "Josh",
+        "lastName": "Lee",
+        "bio": "As the Director of Marketing at Daft Labs, Josh Lee puts his twelve-plus years of development experience to work, crafting elegant and effective solutions to challenging technological and marketing problems. Josh channels his passion for open source publishing software as the organizer for the Burlington WordPress Group.",
         "twitter": {
-            "href": "https://twitter.com/mo_mack",
-            "title": "mo_mack"
+            "href": "https://twitter.com/joshleecreates",
+            "title": "joshleecreates"
         },
         "sessions": [
-            "buy-your-community-organizer-a-beer"
+            "client-work-with-wordpress"
         ]
     },
-    "chuck-megivern": {
-        "slug": "chuck-megivern",
-        "firstName": "Chuck",
-        "lastName": "Megivern",
-        "bio": "Chuck Megivern is Principal Engineer at iSystems, LLC. He has over 10 years of software application development experience. Chuck has worked at several Vermont technology companies, with a focus on cloud scale advertising deployments, and human resource software-as-a-service applications.\n\nExperience includes Java and ASP.NET application development in large server and cloud operating environments. A variety of open source frameworks have been used in these applications. Experience includes containerized deployments, API management in no-single-point-of-fail / high traffic scenarios, and dynamic server scaling in the cloud. Chuck has authored a webinar on API development for the WSO2 company. Chuck is Microsoft certified for C# development.",
+    "sophie-marchand": {
+        "slug": "sophie-marchand",
+        "firstName": "Sophie",
+        "lastName": "Marchand",
+        "bio": "Sophie Marchand is an Excel MVP specialized in Self Service BI.",
+        "sessions": [
+            "self-service-bi-integration-in-corporate-bi"
+        ]
+    },
+    "everett-mckay": {
+        "slug": "everett-mckay",
+        "firstName": "Everett",
+        "lastName": "McKay",
+        "bio": "Everett McKay is Principal of UX Design Edge, a user experience design training and consulting company for mobile, web, and desktop applications. He has been teaching UX design to software professionals since 2003 and has delivered design workshops to an international audience that includes Europe, Asia, South America, and Africa. Everett is author of \"UI is Communication: How to design intuitive, user-centered user interfaces by focusing on effective communication\", published by Morgan Kaufmann. While at Microsoft, he was responsible for writing and evangelizing the Windows User Experience Guidelines.",
         "twitter": {
-            "href": "https://twitter.com/ChuckMegivern",
-            "title": "ChuckMegivern"
+            "href": "https://twitter.com/uxdesignedge",
+            "title": "uxdesignedge"
         },
         "sessions": [
-            "docker-and-microsoft-asp-dot-net"
+            "effective-design-reviews"
         ]
     },
     "mitch-miller": {
         "slug": "mitch-miller",
         "firstName": "Mitch",
         "lastName": "Miller",
-        "bio": "",
+        "bio": "Mitch Miller is a Ph.D. chemist who has been designing, developing, delivering, and supporting scientific software solutions for over 20 years.\n\nHe is currently Principal Consultant at Scientific Thinking, LLC and works with users, mainly in the pharmaceutical and chemical industries on improving their access to information. The technologies he currently works with include C#, Java, Javascript, Oracle, laboratory automation and workflow applications.",
+        "sessions": [
+            "visual-programming-for-science-and-business"
+        ]
+    },
+    "kyle-mitofsky": {
+        "slug": "kyle-mitofsky",
+        "firstName": "Kyle",
+        "lastName": "Mitofsky",
+        "bio": "Kyle Mitofsky currently serves as the Software Development Team Technical Lead at the Vermont Department of Health. He enjoys reading code, writing code, talking about code, and answering questions about code from co-workers and anonymous strangers on the internet. He's interested in desktop, mobile, and web development technologies, especially if they're on the .NET stack. He blogs about coding at [www.codingeverything.com](http://www.codingeverything.com).",
         "twitter": {
-            "href": "https://twitter.com/movingmitch",
-            "title": "movingmitch"
+            "href": "https://twitter.com/KyleMit2",
+            "title": "KyleMit2"
         },
         "sessions": [
-            "using-automated-workflow-tools-to-improve-wikipedia"
+            "meteor-js"
         ]
     },
     "john-need": {
         "slug": "john-need",
         "firstName": "John",
         "lastName": "Need",
-        "bio": "Front End Architect at Galen Healthcare",
+        "bio": "Senior UI Developer @ Inntopia",
         "twitter": {
-            "href": "https://twitter.com/johnneed",
-            "title": "johnneed"
+            "href": "https://twitter.com/JohnNeed",
+            "title": "JohnNeed"
         },
         "sessions": [
-            "death-defying-feats-of-debuggery",
-            "rock-solid-css-architecture"
+            "react-and-flux"
         ]
     },
-    "jim-oneil": {
-        "slug": "jim-oneil",
-        "firstName": "Jim",
-        "lastName": "O'Neil",
-        "bio": "Jim is a Senior Architect with BlueMetal Architects, Microsoft's IoT Global Partner of the Year, where he's most recently been working on IoT solutions from backend services to front-end visualizations. Formerly a Microsoft Evangelist in the Northeast, he's been working with Microsoft Azure since it was announced and with Microsoft and open source technologies for just a tad longer than that.",
-        "twitter": {
-            "href": "https://twitter.com/jimoneil",
-            "title": "jimoneil"
-        },
+    "brandt-newton": {
+        "slug": "brandt-newton",
+        "firstName": "Brandt",
+        "lastName": "Newton",
+        "bio": "Brandt Newton is currently a student at the University of Vermont working toward his BS in Computer Science. He is also an intern at Mach7 Technologies.",
         "sessions": [
-            "anatomy-of-an-azure-iot-solution"
+            "windows-services"
         ]
     },
     "al-ramirez": {
         "slug": "al-ramirez",
         "firstName": "Al",
         "lastName": "Ramirez",
-        "bio": "Al has over a decade of experience delivering highly scalable and available software solutions in industries ranging from financial services (loan syndication and retirement fund management) to health insurance, supply chain management, and digital marketing services. Currently Systems Architect at iSystems headquarters in South Burlington, organizer of Burlington Salesforce Developer Group, and loving all things BTV Ignite. Previous local engagements include developer at MyWebGrocer and adjunct instructor at Champlain College.\n\nYou can reach Al via Twitter @[mirezez](https://twitter.com/mirezez) or [mirez.us](http://mirez.us/).",
+        "bio": "Systems Architect at iSystems in Colchester, Vermont",
         "twitter": {
             "href": "https://twitter.com/mirezez",
             "title": "mirezez"
         },
         "sessions": [
-            "in-database-analytics-with-r-in-sql-server-2016"
-        ]
-    },
-    "andy-reagan": {
-        "slug": "andy-reagan",
-        "firstName": "Andy",
-        "lastName": "Reagan",
-        "bio": "Andy Reagan is a PhD Candidate at the University of Vermont in Applied Mathematics. His work focuses on the use of data science techniques including sentiment analysis to understand complex sociotechnical systems, in particular building visualizations to better understand the analysis.",
-        "twitter": {
-            "href": "https://twitter.com/andyreagan",
-            "title": "andyreagan"
-        },
-        "sessions": [
-            "custom-interactive-web-visualizations-using-d3"
+            "social-network-analysis-and-visualization"
         ]
     },
     "rachel-reese": {
         "slug": "rachel-reese",
         "firstName": "Rachel",
         "lastName": "Reese",
-        "bio": "",
+        "bio": "Rachel Reese is a long-time software engineer and math geek who can often be found talking to random strangers about the joys of functional programming and F#. She currently works for Jet.com in NYC. She has helped run the Nashville F# User group, @NashFSharp, and the Burlington, VT functional programming user group, @VTFun. She's also an ASPInsider, an F# MVP, a Xamarin MVP, a community enthusiast, one of the founding @lambdaladies, and a Rachii. You can find her on Twitter, [@rachelreese](https://twitter.com/rachelreese), or on her blog: [rachelree.se](http://rachelree.se/).",
         "twitter": {
             "href": "https://twitter.com/rachelreese",
             "title": "rachelreese"
         },
         "sessions": [
-            "history-of-a-functional-language"
-        ]
-    },
-    "jean-rene-roy": {
-        "slug": "jean-rene-roy",
-        "firstName": "Jean-René",
-        "lastName": "Roy",
-        "bio": "Jean-René Roy has been developing IT solution for large and small enterprises since 1987. In 1991 he founded the consulting firm Technologies SoftDesign Inc. Since that time he has worked on projects for House of Commons, Innovapost, Bell Canada, CGI, CNSC, Kraft, and many other clients assuming the responsibility of Business Analyst, Software Architect, ETL and BI Architect, Software Developer, Analyst, Team Leader and Mentor. He has been and is still very active in the developers' community by acting as a user group leader for more than ten years with the Montreal .NET community and the Ottawa IT community. He is also the co-founder of an international developer's conference ([www.DevTeach.com](http://www.DevTeach.com/)) which is now directed by a member of his team. Jean-René Roy is a SQL Server Microsoft MVP.",
-        "twitter": {
-            "href": "https://twitter.com/DevTeachConfere",
-            "title": "DevTeachConfere"
-        },
-        "sessions": [
-            "become-a-modern-dba-with-sql-server-2016"
-        ]
-    },
-    "peter-silverman": {
-        "slug": "peter-silverman",
-        "firstName": "Peter",
-        "lastName": "Silverman",
-        "bio": "",
-        "sessions": [
-            "developing-a-startup-in-college"
-        ]
-    },
-    "sara-simon": {
-        "slug": "sara-simon",
-        "firstName": "Sara",
-        "lastName": "Simon",
-        "bio": "Sara Simon works on the digital team at Vermont Public Radio.",
-        "twitter": {
-            "href": "https://twitter.com/sarambsimon",
-            "title": "sarambsimon"
-        },
-        "sessions": [
-            "you-are-not-too-legit-to-commit"
-        ]
-    },
-    "oliver-smith": {
-        "slug": "oliver-smith",
-        "firstName": "Oliver",
-        "lastName": "Smith",
-        "bio": "Oliver Smith is a second grader at Charlotte Central School.",
-        "sessions": [
-            "first-steps-to-coding"
+            "event-driven-microservices"
         ]
     },
     "eric-smith": {
         "slug": "eric-smith",
         "firstName": "Eric",
         "lastName": "Smith",
-        "bio": "",
+        "bio": "Eric is Senior VP of Product Development at Middlebury Interactive Languages. He helps run @VTFun, the VT functional programming users group. Eric seems to be on a never-ending quest to understand the history, future, and nature of computation and its practical development. And he loves to talk about it.",
         "twitter": {
             "href": "https://twitter.com/eric_s_smith",
             "title": "eric_s_smith"
         },
         "sessions": [
-            "probabilistic-programming"
+            "abstraction"
         ]
     },
     "kip-steele": {
         "slug": "kip-steele",
         "firstName": "Kip",
         "lastName": "Steele",
-        "bio": "Kip is a senior manager at the UVM Medical Center, an executive fellow for Burlington Telecom, and founder of the [VitalVR.co](http://VitalVR.co/) project.",
+        "bio": "Kip Steele has 20 years of project management and QA experience for firms such as FactSet and clients such as Green Mountain Coffee/Keurig, Keurig Canada, Morgan Stanley, JP Morgan Chase and Boeing.",
         "twitter": {
             "href": "https://twitter.com/qualityninja",
             "title": "qualityninja"
         },
         "sessions": [
-            "creating-simulation-software"
+            "building-testing-teams"
         ]
     },
-    "scott-thibault": {
-        "slug": "scott-thibault",
-        "firstName": "Scott",
-        "lastName": "Thibault",
-        "bio": "Scott holds a doctorate degree in programming languages and has been working with design automation and embedded systems for more than two decades. He has been consulting with a health care startup for the past several years as their Chief Data Scientist, as well as pursuing other interests including the Internet of Things and natural language processing.",
+    "james-sturtevant": {
+        "slug": "james-sturtevant",
+        "firstName": "James",
+        "lastName": "Sturtevant",
+        "bio": "James is a Tech Evangelist for Microsoft where he works with Startups, Students and Developers. Has been working in the web development space for 10+ years. He is focused on automating workflows including his own and he enjoys teaching and learning about his craft.",
         "twitter": {
-            "href": "https://twitter.com/GreenMtnComp",
-            "title": "GreenMtnComp"
+            "href": "https://twitter.com/aspenwilder",
+            "title": "aspenwilder"
         },
         "sessions": [
-            "internet-of-things"
+            "azure-event-hubs"
+        ]
+    },
+    "michael-tamlyn": {
+        "slug": "michael-tamlyn",
+        "firstName": "Michael",
+        "lastName": "Tamlyn",
+        "bio": "Michael Tamlyn is the Principal Architect at Galen Healthcare Solutions where he works with a tight-knit team of engineers to build enterprise applications for the healthcare industry. While his professional experience has focused on data and integrations, a passion for user experience and user interface design keeps him enthralled with software development. Mike currently resides in Shelburne, VT with his wife and family.\n\nNot too long ago, [Mike Commo](/2015/speakers#michael-commo) and Mike Tamlyn were part of a team that took first place in HackVT 2013.",
+        "sessions": [
+            "entity-framework-code-first-migrations"
         ]
     },
     "peter-vile": {
         "slug": "peter-vile",
         "firstName": "Peter",
         "lastName": "Vile",
-        "bio": "Peter Vile received his master degree from Colorado State University in computer science with a focus on software engineering specializing in distributed systems and aspect oriented middleware. Since then he has been developing web based solutions and services in the Java ecosystem in several domains such as defense, telecom and now automotive. Currently he works for Dealer.com focused on internal and external integration projects. While not chasing his two boys around he tries to stay up on messaging and reactive systems and is currently dabbling in Scala, Play and Akka.",
-        "twitter": {
-            "href": "https://twitter.com/twinsenf1",
-            "title": "twinsenf1"
-        },
+        "bio": "Peter Vile received his master degree from Colorado State University in computer science with a focus on software engineering specializing in distributed systems and aspect oriented middleware. Since then he has been developing web based solutions and services in the Java ecosystem in several domains such as defense, telecom and now automotive. Currently he works for Dealer.com focused on internal and external integration projects. While not chasing his two boys around he tries to stay up on messaging technologies and is currently dabbling in Scala, Play and Akka.",
         "sessions": [
-            "implementing-cqrs-within-existing-systems"
+            "management-of-state-in-functional-systems"
         ]
     },
     "bill-wagner": {
         "slug": "bill-wagner",
         "firstName": "Bill",
         "lastName": "Wagner",
-        "bio": "Bill Wagner is a senior content developer with Microsoft. His mission is to teach developers about .NET and C#. Bill Wagner is one of the world's foremost C# developers and a member of the ECMA C# Standards Committee as well as the .NET Foundation advisory council. He is President of the Humanitarian Toolbox, a charity that creates Open Source software that supports disaster relief efforts.",
+        "bio": "Bill has spent his entire career in the software industry, spanning both technical and business roles. His mission it to teach others to write better code – and help organizations recognize the value of great software.\n\nA Microsoft regional director, Bill’s technical areas of focus are C#, .NET, and TypeScript. His other, non-coding passion is to help organizations build effective, high-functioning developer teams.\n\nAn active blogger and author, Bill has written hundreds of technical articles and two books, the best selling \"Effective C#\" and \"More Effective C#.\" His articles have appeared in MSDN Magazine, the C# Developer Center, Visual C++ Developer's Journal, Visual Studio Magazine, ASP.NET Pro, .NET Developer's Journal and more.",
         "twitter": {
             "href": "https://twitter.com/billwagner",
             "title": "billwagner"
         },
         "sessions": [
-            "a-first-look-at-c-sharp-7",
-            "dot-net-all-the-things"
+            "c-sharp-6-0"
         ]
     },
-    "betsy-weber": {
-        "slug": "betsy-weber",
-        "firstName": "Betsy",
-        "lastName": "Weber",
-        "bio": "Betsy works at Microsoft as a Field Community Program Manager with their industry leading global community programs, Microsoft’s Most Valued Professional (MVP) and Regional Directors (RD). She is a passionate community program manager who works with both offline and online technical communities.\n\nPrior to working at Microsoft, Betsy was the Chief Evangelist at TechSmith for Snagit, Camtasia, Jing, Camtasia Relay, and Coach's Eye. Betsy loves geeks, tech, photography, knitting, beer, travel, robots, sporks, Michigan State University, popcorn and screencasting.",
-        "twitter": {
-            "href": "https://twitter.com/betsyweber",
-            "title": "betsyweber"
-        },
+    "josh-winslow": {
+        "slug": "josh-winslow",
+        "firstName": "Josh",
+        "lastName": "Winslow",
+        "bio": "Josh Winslow is currently a development manager in Oracle's Health Sciences Global Business Unit, leading a team working to improve the safety and lower the costs of drug development. In a previous life, he worked on the Mouse Genome Informatics project, the largest store of mouse research information in the world. In his spare time he plays really complicated board games and floats in heated pools near the ocean with his wife.",
         "sessions": [
-            "how-is-a-community-like-a-cupcake"
-        ]
-    },
-    "lucie-delabruere": {
-        "slug": "lucie-delabruere",
-        "firstName": "Lucie",
-        "lastName": "deLaBruere",
-        "bio": "Lucie explores how to use emerging technology for teaching and learning. She has over 20 years experience in consulting on technology and education. She is a Google Certified Teacher Google Apps Certified Trainer and Raspberry Pi Certified Educator. Lucie teaches graduate courses at the University of Vermont, Marlboro College, and St. Michael's College and is the winner of the 2009 Frank Watson VITA-Learn EdTech Award. Lucie received her Masters of Science in Internet Engineering from the Graduate School in 2000, and her Bachelors of Arts in Secondary Education and Social Studies from the State University of New New York at Oswego where she graduated Summa Cum Laude.",
-        "twitter": {
-            "href": "https://twitter.com/techsavvygirl",
-            "title": "techsavvygirl"
-        },
-        "sessions": [
-            "create-with-code"
+            "managing-your-career"
         ]
     }
 }
