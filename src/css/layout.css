@@ -408,11 +408,6 @@ ul.sponsors li.name-only {
     height: 64px;
     background-image: url(/media/sponsors/The-University-of-Vermont-logo-250x64.jpg);
 }
-.logo.the-university-of-vermont-grossman-school-of-business {
-    width: 250px;
-    height: 89px;
-    background-image: url(/media/sponsors/The-University-of-Vermont-Grossman-School-of-Business-logo-250x89.jpg);
-}
 .logo.found-line {
     height: 56px;
     background-image: url(/media/sponsors/Found-Line-logo-150x56.jpg);
@@ -427,8 +422,13 @@ ul.sponsors li.name-only {
 }
 .logo.dealer-dot-com {
     width: 250px;
-    height: 22px;
-    background-image: url(/media/sponsors/Dealer-Dot-Com-logo-250x22.jpg);
+    height: 33px;
+    background-image: url(/media/sponsors/Dealer-Dot-Com-logo-250x33.jpg);
+}
+.logo.dealer-dot-com-a-dealertrack-solution {
+    width: 250px;
+    height: 33px;
+    background-image: url(/media/sponsors/Dealer-Dot-Com-A-Dealertrack-Solution-logo-250x33.jpg);
 }
 .logo.telerik {
     height: 59px;
@@ -449,8 +449,8 @@ ul.sponsors li.name-only {
     background-image: url(/media/sponsors/ComponentOne-logo-142x100.jpg);
 }
 .logo.jetbrains {
-    height: 150px;
-    background-image: url(/media/sponsors/JetBrains-logo-150x150.jpg);
+    height: 58px;
+    background-image: url(/media/sponsors/JetBrains-logo-150x58.jpg);
 }
 .logo.agilion-apps {
     height: 34px;
@@ -547,8 +547,8 @@ ul.sponsors li.name-only {
     background-image: url(/media/sponsors/Pluralsight-logo-150x28.jpg);
 }
 .logo.logic-supply {
-    height: 64px;
-    background-image: url(/media/sponsors/Logic-Supply-logo-150x64.jpg);
+    height: 46px;
+    background-image: url(/media/sponsors/Logic-Supply-logo-150x46.jpg);
 }
 .logo.wintellectnow {
     height: 49px;
@@ -609,48 +609,6 @@ ul.sponsors li.name-only {
 .logo.mach7-technologies {
     height: 43px;
     background-image: url(/media/sponsors/Mach7-Technologies-logo-150x43.jpg);
-}
-.logo.burlington-telecom {
-    width: 225px;
-    height: 57px;
-    background-image: url(/media/sponsors/Burlington-Telecom-logo-225x57.jpg);
-}
-.logo.the-university-of-vermont-medical-center {
-    width: 225px;
-    height: 66px;
-    background-image: url(/media/sponsors/The-University-of-Vermont-Medical-Center-logo-225x66.jpg);
-}
-.logo.allscripts {
-    width: 200px;
-    height: 43px;
-    background-image: url(/media/sponsors/Allscripts-logo-200x43.jpg);
-}
-.logo.btv-ignite {
-    height: 75px;
-    background-image: url(/media/sponsors/BTV-Ignite-logo-150x75.jpg);
-}
-ul.sponsors li.static-logo-wrapper {
-    margin: 0;
-}
-.static-logo {
-    border-radius: 0;
-}
-.static-logo.ibm {
-    width: 170px;
-    margin: 66px;
-}
-.static-logo.microsoft {
-    width: 240px;
-    margin-bottom: 30px;
-}
-.legal-statement,
-.legal-statement a {
-    color: gray;
-}
-.legal-statement {
-    margin-top: 35px;
-    font-size: 1.1em;
-    font-style: italic;
 }
 #event,
 #event a {
