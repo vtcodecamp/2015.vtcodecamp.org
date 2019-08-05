@@ -1,0 +1,514 @@
+{
+    "a-first-look-at-c-sharp-7": {
+        "slug": "a-first-look-at-c-sharp-7",
+        "title": "A First Look at C# 7",
+        "description": "C# continues to evolve to support modern development tasks. In this talk, we'll examine the features scheduled for C# 7 and look at how the language design process has changed since C# was first open sourced.",
+        "space": "room-4",
+        "timePeriod": 1600,
+        "level": "300",
+        "speakers": [
+            "bill-wagner"
+        ]
+    },
+    "anatomy-of-an-azure-iot-solution": {
+        "slug": "anatomy-of-an-azure-iot-solution",
+        "title": "Anatomy of an Azure IoT Solution",
+        "description": "Weka Health System's Vaccine Smart Refrigerator is an IoT device designed for health clinics to control the dispensing and storage of vaccines. We'll look under the hood of this real-life Azure IoT solution and discuss the various components and challenges of building such a solution. We'll look at the Azure services in the pipeline, the hardware involved, and how you can leverage Microsoft's IoT Suite to get started.",
+        "space": "room-4",
+        "timePeriod": 1430,
+        "level": "300",
+        "speakers": [
+            "jim-oneil"
+        ]
+    },
+    "become-a-modern-dba-with-sql-server-2016": {
+        "slug": "become-a-modern-dba-with-sql-server-2016",
+        "title": "Become a Modern DBA with SQL Server 2016",
+        "description": "What is a modern DBA? The modern DBA is the person that uses the right tools for the job.\n\nSQL Server come with many tools (SSMS SSIS, SSRS) but these tools are not always the right tools for the job. When you add SQL Azure to the mix, what skill do you need to be this modern DBA? This session will show you tips and tricks and different tools for different jobs including some of the NoSQL services. What will be presented can be very useful for the developer as well. We will also look at some of the new features of SQL Server 2016.\n\nSome of these tools, services, tips and tricks may become very useful in your day-to-day job.",
+        "space": "room-1",
+        "timePeriod": 1645,
+        "level": "200",
+        "speakers": [
+            "jean-rene-roy"
+        ]
+    },
+    "buy-your-community-organizer-a-beer": {
+        "slug": "buy-your-community-organizer-a-beer",
+        "title": "Buy Your Community Organizer A Beer",
+        "description": "As a community organizer, I help people connect to technology and to each other. I help people learn to program who might not otherwise realize that they, too, can learn to write beautiful code. I founded the Burlington, Vermont chapter of Girl Develop It and have organized multiple conferences, most recently UX Burlington 2015 and Offline Camp 2016. Having recently started working at IBM as a Developer Advocate, I am now in a position where my job description includes helping to support a vibrant tech community. Because of my background, I am uniquely qualified to help support community organizers in a way that makes their lives easier and helps them reach their goals. I know all too well how hard this work is, how draining, and how uniquely rewarding it is. And I want to share with you some tips on how to work with organizers in your community in a way where you both benefit, and in turn your local tech ecosystems benefit as well. The first step… buy your local community organizer a beer with no strings attached. They've earned it.",
+        "space": "room-5",
+        "timePeriod": 1345,
+        "level": "100",
+        "speakers": [
+            "maureen-mcelaney"
+        ],
+        "resources": [
+            {
+                "href": "https://medium.com/@Mo_Mack/your-community-organizers-bf698dd04c12",
+                "title": "Backstory"
+            }
+        ]
+    },
+    "clean-code-and-clean-processes": {
+        "slug": "clean-code-and-clean-processes",
+        "title": "Clean Code & Clean Processes",
+        "description": "This session is a revival of my Clean Code sessions from the last two years. Think Clean & Single Responsibility.",
+        "space": "room-2",
+        "timePeriod": 900,
+        "level": "100",
+        "speakers": [
+            "hetal-dave"
+        ]
+    },
+    "closing": {
+        "slug": "closing",
+        "title": "Closing Remarks",
+        "space": "main-hall",
+        "timePeriod": 1745,
+        "speakers": []
+    },
+    "complexities-of-web-development": {
+        "slug": "complexities-of-web-development",
+        "title": "Complexities of Web Development",
+        "description": "Walk through the thoughts and lessons learned when scaffolding out an Angular2 project – trying to understand what a *-cli does for you: npm, jspm, gulp, grunt, sass, tsc, babel, karma, jasmine, protractor, rxjs, shims of shims, omgwtf (tableflip)",
+        "space": "room-1",
+        "timePeriod": 900,
+        "level": "200",
+        "speakers": [
+            "cesar-carrasco"
+        ]
+    },
+    "create-with-code": {
+        "slug": "create-with-code",
+        "title": "Create with Code: Let's Get Physical",
+        "description": "Controlling physical objects with code is a pedagogically sound method to learning the skills necessary to break into coding. In this session we'll take a brief look at the Seymour Paperts research to understand why and then break into some fun ways to code physical objects to blink, move, race, dance, sense, and more. Make coding a family affair with smart objects and fun robots. Create confidence with code using Raspberry Pi and Arduino to control eTextile or crafty projects. This is a beginner session for those looking to break into coding or helping others learn to code. ",
+        "space": "room-5",
+        "timePeriod": 1430,
+        "level": "100",
+        "speakers": [
+            "lucie-delabruere"
+        ]
+    },
+    "creating-simulation-software": {
+        "slug": "creating-simulation-software",
+        "title": "No Really, This is Mission Critical Software!: Creating Simulation Software in the Age of Madden and Nintendo",
+        "description": "A review of simulation software in hospital and capturing real user experience as well as gamification.",
+        "space": "room-3",
+        "timePeriod": 1645,
+        "level": "100",
+        "speakers": [
+            "kip-steele"
+        ]
+    },
+    "custom-interactive-web-visualizations-using-d3": {
+        "slug": "custom-interactive-web-visualizations-using-d3",
+        "title": "Custom, Interactive Web Visualizations Using D3.js",
+        "description": "We'll cover everything D3, starting with scales and building a simple visualization (a bar chart) through the tricky stuff: using patterns to package your graphics, custom interactivity, and enabling output of graphics.",
+        "space": "room-1",
+        "timePeriod": 1300,
+        "level": "200",
+        "speakers": [
+            "andy-reagan"
+        ]
+    },
+    "death-defying-feats-of-debuggery": {
+        "slug": "death-defying-feats-of-debuggery",
+        "title": "Death Defying Feats of Debuggery",
+        "description": "Building the biggest, baddest web-app ever? Shave time and pain off the JavaScript debugging processing with these advanced debugging techniques and tools.\n\nTopics will include:\n\n * Source-map magic,\n * Bending breakpoints to your will,\n * Amazing add-ons for your favorite framework,\n * Tracking and mercilessly killing memory leaks,\n * Other awesome stuff\n * and cake.",
+        "space": "room-3",
+        "timePeriod": 1345,
+        "level": "300",
+        "speakers": [
+            "john-need"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/JohnNeed/death-defying-feats-of-debuggery",
+                "title": "Slides"
+            }
+        ]
+    },
+    "deploying-dot-net-applications-with-octopus-deploy": {
+        "slug": "deploying-dot-net-applications-with-octopus-deploy",
+        "title": "Deploying .NET applications with Octopus Deploy",
+        "description": "One of the most important pieces of a quality software process is the capability to automate application deployment. In this session you will learn the key concepts of Octopus Deploy and how to use it to make your deployments consistent and repeatable.",
+        "space": "room-4",
+        "timePeriod": 1100,
+        "level": "200",
+        "speakers": [
+            "floyd-hilton"
+        ]
+    },
+    "developing-a-startup-in-college": {
+        "slug": "developing-a-startup-in-college",
+        "title": "Developing a Startup in College",
+        "description": "Balancing college and career",
+        "space": "room-5",
+        "timePeriod": 1015,
+        "level": "100",
+        "speakers": [
+            "peter-silverman"
+        ]
+    },
+    "docker-and-microsoft-asp-dot-net": {
+        "slug": "docker-and-microsoft-asp-dot-net",
+        "title": "Moving from Big and Complex to Small and Simple: Docker and Microsoft ASP.NET",
+        "description": "Computer applications continue to grow more complex over time. As features get added, applications get refactored into components. How those components are developed becomes again another area to be managed. Approaches to deal with this complexity have been devised over time – many gain traction. Design patterns and The Law of Demeter are historic approaches that still apply.\n\nRecently, an approach of deploying applications in containers has become very popular. \"Docker\" technology first gained hold in the clustered deployment and cloud computing world, but it delivers advantages even on a developer's desktop.\n\nDocker impacts how an application or service is packaged and deployed, and was first adopted in the open source world.\n\nThe technology has delivered such advantages that Microsoft has adapted its ASP.NET and Windows Server strategy, embracing Docker in a big way. Microsoft is also open sourcing ASP.NET Core, and parts of Windows Server.\n\nThis presentation gives an overview to this computing trend, with a particularfocus on ASP.NET.\n\nExamples of ASP.NET web applications and APIs, currently running in production environments in Docker containers, are shown.",
+        "space": "room-4",
+        "timePeriod": 1015,
+        "level": "300",
+        "speakers": [
+            "chuck-megivern"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/ChuckMegivern/aspnet-core-and-docker",
+                "title": "Slides"
+            }
+        ]
+    },
+    "dot-net-all-the-things": {
+        "slug": "dot-net-all-the-things",
+        "title": ".NET All the Things!",
+        "description": "The .NET Stack now runs on Linux and Mac OS as well as Windows desktop. It runs on iOS, Android and Windows tablets and phones. In this session, you'll learn the new tools and processes that enable you to support all the platforms the .NET Stack supports.",
+        "space": "room-4",
+        "timePeriod": 900,
+        "level": "200",
+        "speakers": [
+            "bill-wagner"
+        ]
+    },
+    "ef-core-in-an-asp-dot-net-core-api": {
+        "slug": "ef-core-in-an-asp-dot-net-core-api",
+        "title": "EF Core in an ASP.NET Core API",
+        "description": "It's a new age for .NET developers. You can build cross platform apps, you can use lighter tools like VS Code, and you can deploy instantly using tools like DockerASPNET Core and EF Core. They are so cross-platform that not only can you deploy your apps to OS X and Linux (oh, and Windows, too) but you can even build them on any of the platforms.\n\nPick a platform. I'll choose OS X because MacBookGrab an x-platform, open source IDE that does C#: I'll take Visual Studio Code, written in Electron, cuz I already use that for Node.\n\nNeed a data store: Hey, how about PostreSQL, because I never got to use that before.\n\nBuild a Web API that can persist to PostgreSQL. I'll use ASP.NET Core and EF Core because I have a lot of experience in those already.\n\nCode, debug, git commit. (And show off some of the awesome new features in EF Core.) Deploy to a Linux server (thank you Docker).\n\nInvite the world to use your API.",
+        "space": "room-4",
+        "timePeriod": 1345,
+        "level": "200",
+        "speakers": [
+            "julie-lerman"
+        ]
+    },
+    "embracing-the-common-in-common-language-runtime": {
+        "slug": "embracing-the-common-in-common-language-runtime",
+        "title": "Embracing the \"Common\" in \"Common Language Runtime\"",
+        "description": "One of the undervalued strengths of .NET/Mono is the ability to mix-and-match many different languages. And yet, developing libraries for polyglot consumption is a little-known craft. In this example-laden talk (drawn from 18 years of professional experience) we'll learn some of the tools, techniques, and mindset needed to deliver high-quality libraries which are a joy to consume from multiple CLR languages.\n\n(Note: this session assumes a day-to-day familiarity with .NET or Mono, though not necessarily in more than one language. Also, the discussion will be limited to languages \"in the box\" with Visual Studio… sorry, Cobol.NET fans.)",
+        "space": "room-2",
+        "timePeriod": 1100,
+        "level": "200",
+        "speakers": [
+            "paul-blasucci"
+        ]
+    },
+    "first-steps-to-coding": {
+        "slug": "first-steps-to-coding",
+        "title": "First Steps to Coding: A Second Grader Shows You How",
+        "description": "Oliver Smith started learning to program when he was six. He's now seven. In this workshop for beginning programmers, Oliver (with some help from his dad) will show you some of the most important parts of coding while writing a fun program. You can follow along on your own computer in a browser. No need to install anything.",
+        "space": "room-5",
+        "timePeriod": 900,
+        "level": "100",
+        "speakers": [
+            "oliver-smith"
+        ],
+        "resources": [
+            {
+                "href": "https://medium.com/@eric2.71828/your-journey-is-important-share-it-a96613793f6",
+                "title": "Short Essay (by Oliver's dad)"
+            }
+        ]
+    },
+    "flight-checks": {
+        "slug": "flight-checks",
+        "title": "Flight Checks: Quality Assurance for Releases that Prevent Disasters from Escaping into the Wild",
+        "description": "Examining decision making around when to release, rollback or delay in the context of client demands and rushed development.",
+        "space": "room-3",
+        "timePeriod": 1430,
+        "level": "200",
+        "speakers": [
+            "brie-hoblin"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/BrieHoblin/flight-checks-qa-for-releases-that-prevent-disasters-from-escaping-into-the-wild",
+                "title": "Slides"
+            }
+        ]
+    },
+    "from-mobile-first-to-offline-first": {
+        "slug": "from-mobile-first-to-offline-first",
+        "title": "From Mobile First to Offline First",
+        "description": "It's all too easy assume that your web or mobile app will run on a fast and reliable network with great coverage. The reality for your app's users, though, is often a slow and unreliable network with spotty coverage. What happens when the network doesn't work, or when the device is in airplane mode? You get unhappy, frustrated users. Building on the principles of mobile first, offline first is an approach to application design in which a web, mobile, desktop, or Internet of Things (IoT) application is built for offline usage first and is then progressively enhanced to take advantage of network connectivity when available.\n\nAn offline-first app is an app that works, without error, when there is no network connection. An offline-first app can provide a better, faster user experience — both offline and online — by storing content and data locally and then applying progressive enhancement to synchronize with the cloud when a reliable network connection is available. An offline-first approach can be taken with Progressive Web Apps, mobile apps (native and hybrid), desktop apps (e.g. Electron), and Internet of Things (IoT) apps.",
+        "space": "room-2",
+        "timePeriod": 1645,
+        "level": "200",
+        "speakers": [
+            "bradley-holt"
+        ],
+        "resources": [
+            {
+                "href": "https://speakerdeck.com/bradleyholt/from-mobile-first-to-offline-first-at-vermont-code-camp",
+                "title": "Slides"
+            }
+        ]
+    },
+    "hacking-powerpoint-for-developers": {
+        "slug": "hacking-powerpoint-for-developers",
+        "title": "Hacking PowerPoint for Developers",
+        "description": "Effective presentations are hard. When presenting, many developers show a few traditional bullet-point slides and discount the usage of PowerPoint or Keynote, and then resort to unpredictable live demos. From a developer's perspective, I will highlight simple, but usually overlooked, features within PowerPoint, and some conventions you can apply to your next presentation. I will also demonstrate how PowerPoint can be used for Story Boards and as an alternative to Camtasia for recorded demos, as well as a replacement for a live demo. It is time for you to revisit the powerful and easy to use capabilities of PowerPoint.",
+        "space": "room-3",
+        "timePeriod": 1300,
+        "level": "100",
+        "speakers": [
+            "john-baluka"
+        ],
+        "resources": [
+            {
+                "href": "http://HackingPowerPoint.com/",
+                "title": "Recording"
+            }
+        ]
+    },
+    "history-of-a-functional-language": {
+        "slug": "history-of-a-functional-language",
+        "title": "History of a Functional Language: From Euclid to Type Providers",
+        "description": "Have you ever wondered where your favorite feature came from? Was it influenced by a feature in another language? How are the different programming languages even related? I spent a couple months researching the history of some programming languages, and wanted to share that with you. In this talk, I cover the history of the ML family from approximately the dawn of time, eventually focusing on F# specifically.",
+        "space": "room-4",
+        "timePeriod": 1645,
+        "speakers": [
+            "rachel-reese"
+        ]
+    },
+    "how-hystrix-circuit-breakers-stopped-platform-outages": {
+        "slug": "how-hystrix-circuit-breakers-stopped-platform-outages",
+        "title": "How Hystrix Circuit Breakers Stopped Platform Outages and Saved the Day",
+        "description": "In September 2015, the Dealer.com web-app platform suffered a series of outages. In this talk we'll discuss how our team diagnosed the issues, what measures we took to mitigate them, and how it paid off. We'll go into some detail about cascading failures in a service-oriented architecture, MongoDB performance, and how to use Hystrix circuit breakers to make life better for developers and customers.",
+        "space": "room-3",
+        "timePeriod": 900,
+        "level": "300",
+        "speakers": [
+            "rob-friesel"
+        ]
+    },
+    "how-is-a-community-like-a-cupcake": {
+        "slug": "how-is-a-community-like-a-cupcake",
+        "title": "How is a Community Like a Cupcake?",
+        "description": "What makes a community feel like a community? Is it the people? Is it the subject matter? Is it the tech? What is the icing on the (cup)cake? With the right ingredients, a Community Manager can bake up an engaged and successful community over time. What are the 10 ingredients that go into hosting a successful community?",
+        "space": "room-5",
+        "timePeriod": 1300,
+        "level": "100",
+        "speakers": [
+            "betsy-weber"
+        ]
+    },
+    "implementing-cqrs-within-existing-systems": {
+        "slug": "implementing-cqrs-within-existing-systems",
+        "title": "Implementing CQRS within Existing Systems",
+        "description": "CQRS (Command Query Responsibility Segregation) is a strategy to help systems scale. This talk will have a quick introduction to CQRS, Event Sourcing, DDD (Domain-Driven Design) and how these concepts were applied to a project, as well as the issues we ran into during development, operating the live system and maintaining it.\n\nSome references: [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), [DDD Book](https://vaughnvernon.co/?page_id=168), [CQRS](http://martinfowler.com/bliki/CQRS.html), [CQRS MS Book](https://msdn.microsoft.com/en-us/library/jj554200.aspx)",
+        "space": "room-2",
+        "timePeriod": 1430,
+        "level": "200",
+        "speakers": [
+            "peter-vile"
+        ]
+    },
+    "in-database-analytics-with-r-in-sql-server-2016": {
+        "slug": "in-database-analytics-with-r-in-sql-server-2016",
+        "title": "Bye, T-SQL! In-database Analytics with R in SQL Server 2016",
+        "description": "Microsoft SQL Server 2016 now provides the ability to use R for data analytics and data science applications where T-SQL was once the only option. This session will explore provisioning your SQL Server for R Services and walk through a real world example of performing analysis of your data right at the source. We'll discuss the architecture of R Services in SQL Server and hidden benefits of executing R scripts on SQL Server.",
+        "space": "room-1",
+        "timePeriod": 1600,
+        "level": "200",
+        "speakers": [
+            "al-ramirez"
+        ]
+    },
+    "internet-of-things": {
+        "slug": "internet-of-things",
+        "title": "Internet of Things: Programming on the Edge",
+        "description": "Learn about the Internet of Things and edge computing. This talk will provide an overview of IoT system architecture, the edge device landscape, and an introduction to RxFusion, the open-source C++ framework for programming edge devices. The presentation includes live demonstrations of example code.",
+        "space": "room-1",
+        "timePeriod": 1345,
+        "level": "100",
+        "speakers": [
+            "scott-thibault"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/ScottThibault1/internet-of-things-programming-on-the-edge",
+                "title": "Slides"
+            }
+        ]
+    },
+    "lunch": {
+        "slug": "lunch",
+        "title": "Lunch",
+        "space": "main-hall",
+        "timePeriod": 1200,
+        "speakers": []
+    },
+    "managing-databases-in-visual-studio-with-sql-server-data-tools": {
+        "slug": "managing-databases-in-visual-studio-with-sql-server-data-tools",
+        "title": "Managing Databases in Visual Studio with SQL Server Data Tools",
+        "description": "SQL Server Data Tools (SSDT) transforms database development by introducing a ubiquitous, declarative model that spans all the phases of database development inside Visual Studio. You can use SSDT Transact-SQL design capabilities to build, debug, maintain, and refactor databases. You can work with a database project, or directly with a connected database instance on or off-premise. SSDT facilitates sourced controlled schema and simplifies deployment.",
+        "space": "room-1",
+        "timePeriod": 1430,
+        "level": "200",
+        "speakers": [
+            "bob-crowley"
+        ]
+    },
+    "persistent-distributed-messaging-with-apache-kafka": {
+        "slug": "persistent-distributed-messaging-with-apache-kafka",
+        "title": "An Introduction to Persistent Distributed Messaging with Apache Kafka",
+        "description": "Apache Kafka is a high-throughput, distributed, persistent messaging system that is quickly becoming the standard backbone for real-time big-data deployments across the industry. Come get an introduction to Kafka, and learn how Dealer.com is building their next generation data processing pipeline on top of this new and exciting piece of technology.",
+        "space": "room-2",
+        "timePeriod": 1300,
+        "level": "200",
+        "speakers": [
+            "joshua-dickerson"
+        ]
+    },
+    "probabilistic-programming": {
+        "slug": "probabilistic-programming",
+        "title": "Probabilistic Programming: An Introduction",
+        "description": "The 21st century has highlighted the role of uncertainty in computing, with \"big data\", machine learning, and statistical artificial intelligence. Probabilistic programming systems aim to bridge the gap between the lessons from deterministic programming languages and the increasing importance of uncertainty in computation. In this talk, we'll cover the basics of probabilistic reasoning, introduce probabilistic programming, and survey this new field of programming. ",
+        "space": "room-5",
+        "timePeriod": 1100,
+        "level": "300",
+        "speakers": [
+            "eric-smith"
+        ],
+        "resources": [
+            {
+                "href": "https://github.com/ericssmith/presentations/blob/master/vtcc8/probprog.pdf",
+                "title": "Slides"
+            }
+        ]
+    },
+    "registration": {
+        "slug": "registration",
+        "title": "Registration",
+        "space": "main-hall",
+        "timePeriod": 800,
+        "speakers": []
+    },
+    "rock-solid-css-architecture": {
+        "slug": "rock-solid-css-architecture",
+        "title": "Rock Solid CSS Architecture",
+        "description": "Tired of eating CSS soup day after day? No longer want to play stylesheet Jenga whenever you try to edit main.css? You just may need a CSS architecture. This talk will review the major CSS architectures like BEM (Block Element Modifier) and SMACSS (Scalable and Modular Architecture for CSS) while discussing the pros and cons of each.",
+        "space": "room-1",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "john-need"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/JohnNeed/rock-solid-css-architecture",
+                "title": "Slides"
+            }
+        ]
+    },
+    "seeing-the-matrix-with-tcpdump": {
+        "slug": "seeing-the-matrix-with-tcpdump",
+        "title": "Seeing the Matrix with tcpdump",
+        "description": "Learn the basics of TCP and how to use command line tools to do basic network troubleshooting. All developers work with protocols and abstractions built on top of TCP, so learning how to peak under the hood can be invaluable when troubleshooting.\n\nWe'll measure HTTP response times without adding code to your application, inspect the contents of incoming requests (in production!) without attaching a debugger, and more.",
+        "space": "room-3",
+        "timePeriod": 1100,
+        "level": "300",
+        "speakers": [
+            "david-howell"
+        ]
+    },
+    "simple-documentation-publishing-with-jekyll-and-github": {
+        "slug": "simple-documentation-publishing-with-jekyll-and-github",
+        "title": "Simple Documentation Publishing with Jekyll and GitHub",
+        "description": "Documenting software projects doesn't have to be difficult. Even the writing work can be simplified with boilerplate text and simple scripts. You can take care of the publishing part easily, running your own CMS or Web server, simply by taking advantage of Jekyll static web framework, Git, and GitHub Pages. I'll walk you through the entire process.",
+        "space": "room-3",
+        "timePeriod": 1600,
+        "level": "200",
+        "speakers": [
+            "terrence-dorsey"
+        ]
+    },
+    "snacks": {
+        "slug": "snacks",
+        "title": "Break and Afternoon Snacks",
+        "space": "main-hall",
+        "timePeriod": 1530,
+        "speakers": []
+    },
+    "socratic-ux": {
+        "slug": "socratic-ux",
+        "title": "Socratic UX: The Art & Science of Generating Productive Questions",
+        "description": "Questioning is at the heart of learning about your users. But what makes a great question? This talk will explore the difference between questions that teams need answered in order to make decisions about their products, and the questions that must be asked of users in order to get answers for those teams. Tips for constructing productive questions will be reviewed. Ways to minimize bias and assumptions in your questions will be explored. This talk will also establish that questioning user behavior outside of the confines of your product is an important strategy for revealing unmet needs. The talk will conclude with a brief review of the neural basis of questioning — come learn about what your brain is doing when you ask questions about your users.",
+        "space": "room-2",
+        "timePeriod": 1600,
+        "level": "100",
+        "speakers": [
+            "amy-chess"
+        ]
+    },
+    "squeezing-the-snake-oil-out-of-ux": {
+        "slug": "squeezing-the-snake-oil-out-of-ux",
+        "title": "Squeezing the Snake Oil Out of UX",
+        "description": "Tired of making changes to your code based off what appear to be random recommendations from the design team? In this presentation I'll take the mystery out of the process and show you how to work with your design team to take meaningful steps towards improving your user experience in predictable, achievable, and measurable ways.",
+        "space": "room-2",
+        "timePeriod": 1345,
+        "level": "200",
+        "speakers": [
+            "kevin-braun"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/humanforum/squeezing-the-snake-oil-out-of-ux",
+                "title": "Slides"
+            }
+        ]
+    },
+    "using-automated-workflow-tools-to-improve-wikipedia": {
+        "slug": "using-automated-workflow-tools-to-improve-wikipedia",
+        "title": "Using Automated Workflow Tools to Improve Wikipedia",
+        "description": "Over 14,000 articles within the English language version of [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) use a page template that identifies them as an \"organic compound\" or \"drug.\" This represents a useful resource to people around the world and is arguably more useful when it contains curated links to other resources. This talk describes how it's possible to automate the extraction of a report that is used to curate this data. We'll also show how the same workflow tools can be used to clean up additional data sets and prepare them for loading into a curate database.",
+        "space": "room-4",
+        "timePeriod": 1300,
+        "speakers": [
+            "mitch-miller"
+        ],
+        "resources": [
+            {
+                "href": "http://www.slideshare.net/MitchMiller4/improving-the-chemistry-content-of-wikipedia-using-workflow-tools",
+                "title": "Slides"
+            }
+        ]
+    },
+    "web-application-security-basics": {
+        "slug": "web-application-security-basics",
+        "title": "Web Application Security Basics",
+        "description": "We all do our best to avoid the \"obvious\" security mistakes when writing our applications, but when a security professional performs a manual penetration test on those applications they often find security holes the developers didn't know existed.\n\nIn this session we'll cover the OWASP Top 10 security vulnerabilities for web applications. There will be demonstrations on how each vulnerability works, how to test for these vulnerabilities, and most importantly, how to mitigate them.\n\nSample code will be C#/.NET, but the general concepts apply to all languages/environments.",
+        "space": "room-3",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "jeremy-hutchinson"
+        ]
+    },
+    "welcome": {
+        "slug": "welcome",
+        "title": "Welcome",
+        "space": "main-hall",
+        "timePeriod": 845,
+        "speakers": []
+    },
+    "you-are-not-too-legit-to-commit": {
+        "slug": "you-are-not-too-legit-to-commit",
+        "title": "You Are Not Too Legit to Commit",
+        "description": "Let's talk about documentation. Install instructions are key. The occasional inline comment can be helpful. You want someone to understand your project? That README had better be good. But all of this can be maintained after the fact, right? Ship your code, then shift to documentation, right? Wrong. So very wrong. This session is about the git commit—about the the craft and importance of a good git commit. Commits tell the story of your software. They guide other developers through your project. They guide *future* you the developer through your project. Good documentation begins at the start, and a thorough commit message can save hours down the road. In this session, we'll talk about how to write one.",
+        "space": "room-2",
+        "timePeriod": 1015,
+        "level": "200",
+        "speakers": [
+            "sara-simon"
+        ]
+    }
+}
